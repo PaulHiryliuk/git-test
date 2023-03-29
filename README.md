@@ -1,1 +1,1 @@
-# git-test
+# Repository for tests for Git Management Service
